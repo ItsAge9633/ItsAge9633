@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hola, I'm Umer Shaikh !👋
 
-<!--
-**ItsAge9633/ItsAge9633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Diploma Syllabus
+- 🌱 I’m currently learning Pentesting | ctf 
+- 👯 I’m looking to collaborate on Youtube 
+- 🤔 I’m looking for help with Crptoknight 
+- 💬 Ask me about HTML | JAVA | PYTHON | PHP | MySQL. 
+- 📫 How to reach me: Instagram --> ItsAge20 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend lot of time on Youtube and Tech Stuff.
+  
